@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![LimJH01's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimJH01)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![LimJH01's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimJH01)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimJH01&langs_count=10&layout=compact)]()
